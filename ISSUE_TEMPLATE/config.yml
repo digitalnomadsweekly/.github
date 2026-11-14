@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Community Support
+    url: https://github.com/orgs/your-org/discussions
+    about: Please ask questions and get help from the community here.
+  - name: Security Vulnerability Reporting
+    url: https://github.com/your-org/.github/security/policy
+    about: Report security vulnerabilities responsibly.
